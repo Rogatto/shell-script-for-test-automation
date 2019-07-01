@@ -1,4 +1,4 @@
-# shell_script_for_test_automation
+# shell script for test automation
 
 Necessário estar em alguma distribuição do linux:
 
